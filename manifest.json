@@ -1,0 +1,10 @@
+{
+  "name": "Class Progress Tracker",
+  "short_name": "ProgressTracker",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2c3e50",
+  "orientation": "portrait",
+  "icons": []
+}
